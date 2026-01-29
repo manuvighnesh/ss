@@ -1,0 +1,13 @@
+OPENAI_API_KEY=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
+OPENAI_MODEL=openai/gpt-4o-mini  # Or any OpenRouter model
+OPENAI_BASE_URL=https://openrouter.ai/api/v1
+
+# Application
+APP_NAME=Personal Learning Assistant
+APP_URL=http://localhost:3000
+
+# MongoDB
+MONGO_URI=mongodb://localhost:27017
+
+# Settings
+MAX_CONTEXT_CHARS=60000
